@@ -1,0 +1,32 @@
+[
+  {
+    "heading": "Mind",
+    "paragraph": "Those who cannot their minds cannot change anything.",
+    "image": "assets/images/brain.jpg",
+    "modalContent": "Write down how you feel.\n\nBenefits Include:\nImproved memory\nCreativity\nOvercoming trauma\nMood booster"
+  },
+  {
+    "heading": "Time",
+    "paragraph": "The bad news is time flies. The good news is you're the pilot.",
+    "image": "assets/images/time.jpg",
+    "modalContent": "Create a daily routine.\n\nMake it a habit\nStack healthy habits"
+  },
+  {
+    "heading": "Food",
+    "paragraph": "You don't have to eat less, you just have to eat right",
+    "image": "assets/images/food.jpg",
+    "modalContent": "Have a shopping list.\nKeep track of calories, time, and food waste.\nPlan meals in advance.\nMeal prep"
+  },
+  {
+    "heading": "Money",
+    "paragraph": "Money is not the goal; it's a tool. Use it wisely to create a life of abundance, security, and generosity.",
+    "image": "assets/images/money.jpg",
+    "modalContent": "Track income and expenses.\nCheck account balance weekly.\nStart saving now"
+  },
+  {
+    "heading": "Home",
+    "paragraph": "Home is where love resides, memories are created, and dreams are nurtured.",
+    "image": "assets/images/home.jpg",
+    "modalContent": "Clean space = happy mind.\nNo hoarding.\nMake the bed first thing.\nLabel where necessary.\nWash the dishes as soon as"
+  }
+]
